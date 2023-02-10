@@ -28,9 +28,14 @@
   color: #61dafb;
 }
 
-div {
+.box {
+  margin: 25px auto;
+  padding: 20px;
   border-radius: 25px;
   background-color: #ee96c6;
+  height: 300px;
+  width: 300px;
+  border: solid rgb(167, 166, 166);
 }
 
 @keyframes App-logo-spin {
